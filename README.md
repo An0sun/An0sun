@@ -11,8 +11,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=An0sun&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)`<br/>`
-![](https://nirzak-streak-stats.vercel.app/?user=An0sun&theme=ambient_gradient&hide_border=false)`<br/>`
+![](https://github-readme-stats.vercel.app/api?username=An0sun&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=An0sun&theme=ambient_gradient&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=An0sun&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
