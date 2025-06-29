@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-🖥️ Tech Enthusiast `<br>` 🗿 Problem Solver `<br>`🎯 Trading Lover `<br>`📚 Always Learning New Technologies
+🖥️ Tech Enthusiast
+🗿 Problem Solver
+🎯 Trading Lover
+📚 Always Learning New Technologies
 
 # 💻 Tech Stack:
 
